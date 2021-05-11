@@ -4,7 +4,7 @@ selectRC
 A simple selecting module for RC stars in python
 You can change input parameters on the functions as you wish (I gave a sample in the scripts)
 ***All functions is modifiable, I just tried to make it useful.***
----------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 Python Versions and Dependencies
