@@ -140,7 +140,7 @@ def hess(data,teff,logg,outputname,figname):
     #creating color bar for number density scatter
     colorbar_ax = fig.add_axes([0.1, 0.07, 0.6, 0.01])
     fig.colorbar(sc, cax=colorbar_ax,orientation="horizontal")
-    colorbar_ax.set_xlabel("log N")
+    colorbar_ax.set_xlabel("N")
     colorbar_ax.xaxis.label.set_fontsize(8)
     colorbar_ax.tick_params(which='major',labelsize=5)
 	
